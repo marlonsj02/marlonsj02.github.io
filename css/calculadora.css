@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(197, 255, 255);
+}
+
+.container {
+    background-color: white;
+    border: 3px solid black;
+    margin-top: 10%;
+    width: 50%;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.operacoes {
+    text-align: center;
+    border: 1px solid black;
+    padding: 12px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 100%;
+}
+
+.operacoes h5 {
+    margin-bottom: 3%;
+    font-size: medium;
+}
+
+#resultado {
+    margin-top: 5%;
+    font-size: medium;
+    text-align: center;
+}
+
+.btn-outline-light {
+    color: black;
+}
+
+.inputNumber {
+    margin-left: 20%;
+}
+
+.form-control-md {
+    width: 56%;
+}
+
+.operacao {
+    margin-bottom: 2%;
+    margin-left: 47%;
+}
+
+
+/* .ajuda {
+    margin-left: 95%;
+}
+
+.ajuda i {
+    margin-top: 3%;
+    color: black;
+} */
+
+.modal-header {
+    text-align: center;
+}
